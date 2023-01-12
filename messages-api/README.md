@@ -15,8 +15,8 @@ Example JSON body:
 ~~~
 {
   "content": "Hey there!",
-  "receiver": "aflyon",
-  "sender": "eddie"
+  "receiver": "Steve",
+  "sender": "Tony"
 }
 ~~~
 
